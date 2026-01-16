@@ -7,7 +7,7 @@ The Chocolate color scheme for Ghostty.
 
 * [Chocolate for Firefox](https://addons.mozilla.org/sv-SE/firefox/addon/chocolate-theme-firefox/)<br>
 
-Put file in ~/.config/ghostty/themes (create folders if non-existing).
+Put file in ~/.config/ghostty/themes/ (create folders if non-existing).
 
 *Chocolate*
 
