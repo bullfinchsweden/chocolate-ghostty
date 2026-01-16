@@ -9,6 +9,6 @@ The Chocolate color scheme for Ghostty.
 
 *Chocolate*
 
-<img width="260" height="84" alt="ChocolateGhostty1" src="https://github.com/user-attachments/assets/bb41a9aa-f4f2-40ee-9967-397e89f176b7" />
+<img width="260" height="84" alt="ChocolateGhostty1" src="https://github.com/user-attachments/assets/14bb9ce3-bf21-4228-a8cd-63bea9048873" />
 
-<img width="786" height="398" alt="ChocolateGhostty2" src="https://github.com/user-attachments/assets/24e1c613-ca68-4a2e-a02b-2616263358ee" />
+<img width="786" height="399" alt="ChocolateGhostty2" src="https://github.com/user-attachments/assets/85722570-a173-45f7-b34f-e5e4c8ae08ed" />
