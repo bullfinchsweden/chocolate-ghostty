@@ -1,4 +1,4 @@
-# Chocolate Ghostty 🍫👻
+# Chocolate Ghostty
 The Chocolate color scheme for Ghostty.
 
 * [Ghostty for macOS and Linux](https://ghostty.org/)
