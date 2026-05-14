@@ -1,6 +1,8 @@
 # Chocolate Ghostty
 The Chocolate color scheme for Ghostty.
 
+<img width="750" height="253" alt="ChocolateText" src="https://github.com/user-attachments/assets/1f175114-494f-441e-aba4-d5bd6bdfa7db" />
+
 * [Ghostty for macOS and Linux](https://ghostty.org/)
 
 * [Chocolate color scheme](https://gitlab.com/snakedye/chocolate)
