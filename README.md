@@ -5,7 +5,7 @@ The Chocolate color scheme for Ghostty.
 
 * [Ghostty for macOS and Linux](https://ghostty.org/)
 
-* [Chocolate color scheme](https://gitlab.com/snakedye/chocolate)<br/>
+* [Chocolate color palette](https://gitlab.com/snakedye/chocolate)<br/>
 
 Place file in ~/.config/ghostty/themes/ (create folders if non-existing).
 
