@@ -7,6 +7,8 @@ The Chocolate color scheme for Ghostty.
 
 * [Chocolate color palette](https://gitlab.com/snakedye/chocolate)<br/>
 
+<img src="Images/Chocolate.jpg" width="768" height="320" /><br/>
+
 Place file in ~/.config/ghostty/themes/ (create folders if non-existing).
 
 *Chocolate*
