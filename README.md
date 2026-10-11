@@ -1,4 +1,4 @@
-# Chocolate Ghostty
+# Chocolate Ghostty 🍫
 The Chocolate color scheme for Ghostty.
 
 <img src="Images/Ghostty.jpg"><br/>
