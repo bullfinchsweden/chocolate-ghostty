@@ -13,6 +13,4 @@ Place file in ~/.config/ghostty/themes/ (create folders if non-existing).
 
 *Chocolate*
 
-<img src="Images/ChocolateGhostty1.png" width="259" height="84" /><br/>
-
-<img src="Images/ChocolateGhostty2.png" width="785" height="399" />
+<img src="Images/ChocolateGhostty.png" width="750" height="257.5" />
