@@ -1,7 +1,7 @@
 # Chocolate | Ghostty
 The Chocolate color scheme for Ghostty.
 
-<img src="Images/Ghostty.jpg"><br/>
+<img src="Images/Ghostty.png"><br/>
 
 * [Ghostty for macOS and Linux](https://ghostty.org/)
 
